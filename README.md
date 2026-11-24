@@ -10,16 +10,6 @@
 
 A Python application that solves Sudoku puzzles directly from a photo. The user uploads an image; the system preprocesses it, extracts the digits with AI-based OCR, and computes the solution with a recursive backtracking solver — all through a clean PyQt5 interface, with no manual data entry.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Features
 
 - **Image-based input** – solve a puzzle from a photo instead of typing it in.
